@@ -12,9 +12,6 @@ unsafe = true
 [[menu.company]]
 URL = "#"
 name = "About Us"
-[[menu.company]]
-URL = "#"
-name = "Quick Start"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
