@@ -28,10 +28,7 @@ URL = "faq"
 name = "FAQ"
 weight = 4
 [[menu.product]]
-URL = "#"
-name = "Platform"
-[[menu.product]]
-URL = "#"
+URL = ""
 name = "Features"
 [[menu.support]]
 URL = "privacy-policy"
