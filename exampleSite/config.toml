@@ -15,17 +15,10 @@ name = "About Us"
 [[menu.company]]
 URL = "#"
 name = "Quick Start"
-[[menu.company]]
-URL = "pricing"
-name = "Pricing"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -34,9 +27,6 @@ weight = 3
 URL = "faq"
 name = "FAQ"
 weight = 4
-[[menu.product]]
-URL = "pricing"
-name = "Pricing"
 [[menu.product]]
 URL = "#"
 name = "Platform"
