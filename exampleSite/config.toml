@@ -53,12 +53,12 @@ name = "Terms & Conditions"
 URL = "faq"
 name = "FAQ"
 [params]
-author = "Themefisher"
+author = "Dee Jung"
 contact_form_action = "#"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 description = "This is meta description"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-logo = "images/logo.png"
+logo = "images/sajilo-logo-landing.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
