@@ -1,10 +1,11 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Accounting software designed for<br>small business owners
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Balancing your books and keeping control of your accounts isn’t easy when<br>you’re
+    busy managing your customer relationships and business instead.<br>By simplifying
+    the tedious accounting tasks,<br>Sajilo Khata gives you the<br>freedom to focus
+    more on your big picture.
 feature:
   enable: true
   title: Everything You Need in One Place
