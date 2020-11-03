@@ -31,7 +31,7 @@ service:
       our website and social media.
 call_to_action:
   enable: true
-  title: Hi! Let's get in touch
+  title: "\U0001F44B Let's get in touch"
   image: "/images/contact-us-2061891-1.svg"
   content: We'd love to discuss how we can help solve your problems.
   button:
