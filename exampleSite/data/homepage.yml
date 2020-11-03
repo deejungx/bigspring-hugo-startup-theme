@@ -32,9 +32,8 @@ service:
 call_to_action:
   enable: true
   title: Hi! Let's get in touch
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  image: "/images/contact-us-2061891.svg"
+  content: We'd love to discuss how we can help solve your problems.
   button:
     enable: true
     label: Contact Us
