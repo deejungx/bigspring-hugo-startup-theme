@@ -9,33 +9,30 @@ theme = "bigspring"
 title = "Sajilo Khata"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.company]]
-URL = "about"
-name = "About Us"
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 4
 [[menu.product]]
 URL = ""
 name = "Features"
-[[menu.support]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-[[menu.support]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
+weight = 1
 [[menu.support]]
 URL = "faq"
 name = "FAQ"
+weight = 1
+[[menu.support]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+weight = 2
 [params]
 author = "Dee Jung"
 contact_form_action = "#"

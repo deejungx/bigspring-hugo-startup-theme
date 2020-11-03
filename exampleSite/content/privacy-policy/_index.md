@@ -2,6 +2,11 @@
 title: Privacy Policy for sajilo.company
 subtitle: ''
 description: This is meta description
+menu:
+  support:
+    URL: privacy-policy
+    name: Privacy Policy
+    weight: 3
 
 ---
 At Sajilo Company, accessible from https://sajilo.company, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Sajilo Company and how we use it.
