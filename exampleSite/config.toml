@@ -10,7 +10,7 @@ title = "Sajilo Khata"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "#"
+URL = "about"
 name = "About Us"
 [[menu.main]]
 URL = "blog"
