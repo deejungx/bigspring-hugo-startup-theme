@@ -12,8 +12,8 @@ feature:
   - name: Real-time
     icon: far fa-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
-    icon: ti-package
+  - name: Track Your Business Health
+    icon: fas fa-mobile-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
     icon: ti-alarm-clock
