@@ -9,7 +9,7 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Real-time
+  - name: 24/7 Service
     icon: far fa-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Track Your Business Health
@@ -17,15 +17,6 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Get Paid Faster
     icon: fas fa-money-bill-wave
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
