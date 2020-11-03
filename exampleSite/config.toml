@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Sajilo Khata"
+title = "Sajilo Khata | Accounting Software for Small Business"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
@@ -29,6 +29,10 @@ weight = 1
 URL = "faq"
 name = "FAQ"
 weight = 1
+[[menu.support]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+weight = 2
 [params]
 author = "Dee Jung"
 contact_form_action = "#"
