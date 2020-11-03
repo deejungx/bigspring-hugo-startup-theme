@@ -4,9 +4,11 @@ subtitle: ''
 description: Contact form | Sajilo Khata
 
 ---
-### Why you should contact us!
+### We'd love to hear from you
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+We're here to help and answer any question that you might have. We look forward to hearing from you.
+
+How Can We Help?
 
 * **Phone: +977 9803824042**
-* **Mail: info@sajilo.company**
+* **Mail: deejung.xyz@gmail.com**
