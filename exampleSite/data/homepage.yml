@@ -14,7 +14,7 @@ feature:
     content: Spend less time on crunching numbers.<br>Do more business.
   - name: Track Business Health
     icon: fas fa-mobile-alt
-    content: Track your income and expenses in one place.
+    content: Track your income and expenses<br>in one place.
   - name: Get Paid Faster
     icon: fas fa-money-bill-wave
     content: Create your own invoice. Send reminders for overdue payments.
