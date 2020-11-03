@@ -9,9 +9,9 @@ feature:
   enable: true
   title: Everything You Need in One Place
   feature_item:
-  - name: 24/7 Service
+  - name: Free Your Time
     icon: far fa-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Spend less time on crunching numbers. Do more business.
   - name: Track Your Business Health
     icon: fas fa-mobile-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
