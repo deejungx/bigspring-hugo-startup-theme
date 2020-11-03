@@ -11,5 +11,3 @@ fields:
 - type: text
   name: description
   label: meta description
-pages:
-- exampleSite/content/about/about-us.md
