@@ -9,6 +9,10 @@ theme = "bigspring"
 title = "Sajilo Khata"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.company]]
+URL = "about"
+name = "About Us"
+weight = 1
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
@@ -21,18 +25,10 @@ weight = 2
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.company]]
-URL = "about"
-name = "About Us"
-weight = 1
 [[menu.support]]
 URL = "faq"
 name = "FAQ"
 weight = 1
-[[menu.support]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 2
 [params]
 author = "Dee Jung"
 contact_form_action = "#"
