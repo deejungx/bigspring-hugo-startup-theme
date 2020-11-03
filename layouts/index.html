@@ -68,11 +68,6 @@
       <div class="col-md-6 order-2 order-md-1">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absURL }}" class="btn-link">{{ .label }} <i class="ti-arrow-right"></i></a>
-        {{ end }}
-        {{ end }}
       </div>
       <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
         <div {{if gt (len .images) 1}}class="slider" {{end}}>
@@ -98,11 +93,6 @@
       <div class="col-md-6">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absURL }}" class="btn-link">{{ .label }} <i class="ti-arrow-right"></i></a>
-        {{ end }}
-        {{ end }}
       </div>
     </div>
   </div>
