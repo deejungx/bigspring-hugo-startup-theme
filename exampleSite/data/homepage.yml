@@ -24,14 +24,14 @@ service:
   service_item:
   - title: Coming Soon
     images:
-    - "/images/building-website-2080981.png"
+    - "/images/cta.svg"
     content: Shhh... don't tell anyone.<br><br>The first release of our app will be
       ready in a couple of months. The first few lucky users will get to try it out
       for free!<br>Sign up for early access and stay tuned for more information on
       our website and social media.
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Hi! Let's get in touch
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
