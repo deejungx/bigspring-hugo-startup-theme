@@ -11,7 +11,7 @@ feature:
   feature_item:
   - name: Free Your Time
     icon: far fa-clock
-    content: Spend less time on crunching numbers.\brDo more business.
+    content: Spend less time on crunching numbers.<br>Do more business.
   - name: Track Business Health
     icon: fas fa-mobile-alt
     content: Track your income and expenses in one place.
