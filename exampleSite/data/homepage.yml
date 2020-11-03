@@ -15,8 +15,8 @@ feature:
   - name: Track Your Business Health
     icon: fas fa-mobile-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
-    icon: ti-alarm-clock
+  - name: Get Paid Faster
+    icon: fas fa-money-bill-wave
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Value For Money
     icon: ti-credit-card
