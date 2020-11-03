@@ -21,6 +21,10 @@ weight = 2
 URL = "blog"
 name = "Blog"
 weight = 1
+[[menu.product]]
+URL = ""
+name = "Features"
+weight = 1
 [[menu.support]]
 URL = "faq"
 name = "FAQ"
