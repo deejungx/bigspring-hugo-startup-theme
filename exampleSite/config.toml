@@ -40,13 +40,13 @@ name = "FAQ"
 author = "Dee Jung"
 contact_form_action = "#"
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+description = "Sajilo Khata provides accounting software for small businesses to create invoices, manage cash flows and track business data. "
+footer_content = "Sajilo Khata provides accounting software for small businesses to create invoices, manage cash flows and track business data. "
 logo = "images/sajilo-logo-landing.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
-label = "Get Started"
+label = "Contact Us"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -67,14 +67,6 @@ preloader = ""
 icon = "ti-facebook"
 link = "#"
 title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-skype"
-link = "#"
-title = "skype"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
