@@ -1,7 +1,7 @@
 <footer class="bg-light section pb-0">
   <div class="container">
     <div class="row">
-      <div class="col-md-3 col-sm-6 mb-5">
+      <div class="col-md-4 col-sm-6 mb-5">
         {{ if site.Menus.company }}
         <h3 class="mb-4">Company</h3>
         <ul class="list-unstyled footer-list">
@@ -10,7 +10,8 @@
           {{ end }}
         </ul>
         {{ end }}
-      <div class="col-md-3 col-sm-6 mb-5">
+      </div>
+      <div class="col-md-4 col-sm-6 mb-5">
         {{ if site.Menus.support }}
         <h3 class="mb-4">Support</h3>
         <ul class="list-unstyled footer-list">
@@ -20,7 +21,7 @@
         </ul>
         {{ end }}
       </div>
-      <div class="col-md-3 col-sm-6 mb-5">
+      <div class="col-md-4 col-sm-12 mb-5">
         <a class="d-block mb-3" href="{{ site.BaseURL }}"><img width="{{site.Params.logo_width}}"  class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
         <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
         
