@@ -8,11 +8,21 @@
       <div class="col-lg-10 mx-auto text-center">
         <h1 class="mb-3">{{ .title | markdownify }}</h1>
         <p class="mb-4">{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
-        {{ end }}
-        {{ end }}
+        
+        <form name="subscribe" method="POST" class="col-lg-5 mx-auto" data-netlify="true">
+          <p>
+            <input class="form-control mb-3 " placeholder="Full Name" type="text" name="name" />
+          </p>
+          <p>
+            <input class="form-control mb-3 " placeholder="Email" type="email" name="email" />
+          </p>
+          <p>
+            <input class="form-control mb-3 " placeholder="Company Name" type="text" name="company" />
+          </p>
+          <p>
+            <button type="submit" class="btn btn-primary" >Sign up</button>
+          </p>
+        </form>
 
         {{with .image}}<img src="{{ . | absURL }}" class="img-fluid mt-5" width="750px">{{end}}
       </div>
@@ -103,22 +113,6 @@
 {{ end }}
 <!-- /service -->
 
-<!-- screenshot -->
-{{ if site.Data.homepage.screenshot.enable }}
-{{ with site.Data.homepage.screenshot }}
-<section class="section pb-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-      </div>
-    </div>
-  </div>
-  {{ with .image }} <img src="{{ . | absURL }}" class="img-fluid w-100">{{ end }}
-</section>
-{{ end }}
-{{ end }}
-<!-- /screenshot -->
 
 <!-- call to action -->
 {{ if site.Data.homepage.call_to_action.enable }}

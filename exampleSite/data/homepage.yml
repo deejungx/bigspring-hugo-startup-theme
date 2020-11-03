@@ -3,10 +3,6 @@ banner:
   title : "Let us solve your critical website <br> development challenges"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
-  button:
-    enable : true
-    label : "Contact With Us"
-    link : "#"
 
 ##################### Feature ##########################
 feature:
@@ -90,13 +86,6 @@ service:
         enable : true
         label : "Check it out"
         link : "#"
-        
-################### Screenshot ########################
-screenshot:
-  enable : true
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
-
   
 
 ##################### Call to action #####################
