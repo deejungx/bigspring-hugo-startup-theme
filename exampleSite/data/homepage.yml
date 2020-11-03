@@ -12,9 +12,9 @@ feature:
   - name: Free Your Time
     icon: far fa-clock
     content: Spend less time on crunching numbers. Do more business.
-  - name: Track Your Business Health
+  - name: Track Business Health
     icon: fas fa-mobile-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Track your income and expenses in one place.
   - name: Get Paid Faster
     icon: fas fa-money-bill-wave
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
