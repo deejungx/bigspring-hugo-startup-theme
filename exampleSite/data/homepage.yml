@@ -2,10 +2,10 @@
 banner:
   title: Accounting software designed for<br>small business owners
   image: images/banner-art.svg
-  content: Balancing your books and keeping control of your accounts isn’t easy when<br>you’re
-    busy managing your customer relationships and business instead.<br>By simplifying
-    the tedious accounting tasks,<br>Sajilo Khata gives you the<br>freedom to focus
-    more on your big picture.
+  content: Balancing your books and keeping control of your accounts isn’t easy when
+    you’re busy managing your<br>customer relationships and business instead. By simplifying
+    the tedious accounting tasks,<br>Sajilo Khata gives you the freedom to focus more
+    on your big picture.
 feature:
   enable: true
   title: Everything You Need in One Place
