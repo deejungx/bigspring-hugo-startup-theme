@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Meta description"
 subtitle = ""
 title = "About Us"
 
