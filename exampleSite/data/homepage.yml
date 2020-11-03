@@ -27,7 +27,7 @@ service:
     - "/images/cta.svg"
     content: "\U0001F92B Shhh... don't tell anyone.<br><br>The first release of our
       app will be ready in a couple of months. The first few lucky users will get
-      to try it out for free!<br><b>Sign up for early access and stay tuned for more
+      to try it out for free!<br>Sign up for early access and stay tuned for more
       information on our website and social media."
 call_to_action:
   enable: true
