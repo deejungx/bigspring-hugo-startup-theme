@@ -17,7 +17,7 @@ feature:
     content: Track your income and expenses in one place.
   - name: Get Paid Faster
     icon: fas fa-money-bill-wave
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create your own invoice. Send reminders for overdue payments.
 service:
   enable: true
   service_item:
