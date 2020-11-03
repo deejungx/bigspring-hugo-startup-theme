@@ -8,4 +8,4 @@ We started Sajilo company as a way to change how small business owners manage an
 
 #### Our mission
 
-> ###### To facilitate growth and prosperity of SMEs in Nepal by providing affordable, reliable and easy-to-use business management software.
+> ### To facilitate growth and prosperity of SMEs in Nepal by providing affordable, reliable and easy-to-use business management software.
